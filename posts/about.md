@@ -1,8 +1,14 @@
-# 저를 소개합니다.
+# About me
 
-### 소프트웨어 엔지니어로 일하고 있습니다.
-### 새로운 것을 배우는 것을 좋아합니다.
-### 영어를 공부하고 있습니다.
-### 영어 관광통역안내사 자격증을 취득했습니다.
-### 관광통역안내사가 되려고 노력하고 있습니다.
+##### I have been working as a software engineer.
+
+##### I'm interested in knowledge management these days.
+
+##### I'm studying English.
+
+##### I have obtained an English Tourist Guide Certificate last year.
+
+##### I'm trying to be a good tourist guide!
+
+##### email to ellie.tguide@gmail.com
 
