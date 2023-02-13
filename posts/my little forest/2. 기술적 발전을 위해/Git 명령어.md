@@ -11,12 +11,18 @@
 6. 연결상태 확인 : git remote -v
 
 ##### 삭제작업
-7. $ git rm -r --cached "first_directory_under_repo_root/second_director/dir_to_be_removed"
+7. <span style="color:green">
+$ git rm -r --cached "first_directory_under_repo_root/second_director/dir_to_be_removed"  
+</style>
+
    (여기서 첫번째 디렉토리란 repo 이름은 빼고 그 다음에 나오는 디렉토리를 의미. 
-   예를들면.. $ git rm --cached -r "posts/my little forest/0. 인생 지도"
-   -r option은 recursive, --cached는 remote.  --cached가 없으면 local에서 삭제됨)
-8. $ git commit -am 'dir_to_be_removed removed from the repo'
-9. $ git push
+   예를들면..  
+   내 Vault가 my_vault이고 일기/비밀일기 라는 폴더가 잘못 올라갔다면..
+   <span style="color:green">$ git rm -r --cached  "posts/my_vault/일기/비밀일기" </style>로 지운다는 뜻이다.
+   -r option은 recursive,  하위폴더의 내용도 모두 지운다는 뜻
+   --cached는 remote.  --cached가 없으면 local에서 삭제됨)
+8. <span style="color:green">$ git commit -am 'dir_to_be_removed removed from the repo' </style>
+9. <span style="color:green">$ git push </style>
 
 
 
