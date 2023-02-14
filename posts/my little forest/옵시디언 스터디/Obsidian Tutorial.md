@@ -17,7 +17,7 @@ Obsidian is a naturally occurring volcanic glass that is formed when molten rock
 즉, [[없는 메모]] 이렇게 하면 클릭하는 순간 없는 메모가 생겨난다.
 
 ### 2/6 : Markdown 작성에서 중요한 6개의 중요한 점
-- The Link : 2개의 브래킷 [[Synchronization]]  ^cb1458
+- The Link : 2개의 브래킷 [[동기화]]  ^cb1458
 - The Tag :  hashtag symbol을 사용함 #옵시디언사용팁   ^f7fb7c
 - Italic : 이탤릭체로 강조하고 싶을 때 *아스타리스크*를 이용하면 됨 single asterisk ^quote-named-by-me
 - Bold :  볼드체로 강조하고 싶을 때 **아스타리스크**를 이용하면 됨 double asterisks
@@ -61,7 +61,7 @@ Write, think, and link
 바로 시작하라!
 
 ###동기화 방법
-[[Synchronization]]에서 과정을 자세히 설명
+[[동기화]]에서 과정을 자세히 설명
 
 
 
