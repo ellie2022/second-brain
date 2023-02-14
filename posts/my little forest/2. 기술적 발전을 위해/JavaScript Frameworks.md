@@ -1,4 +1,4 @@
-### Top 9 Javascript Frameworks 
+### Top 9 JavaScript Frameworks 
 https://ninetailed.io/blog/best-javascript-frameworks/ 발췌번역
 
 ###### 프론트엔드 용
@@ -13,7 +13,7 @@ SPA (Single-page application)와 UI를 만드는 JSF.  매우 가볍고 배우�
 웹 개발을 더 생산적이고 즐겁게 하기 위한 툴셋을 제공하자는 철학하에 만들어짐.  
    
 4. Next.js\
-프론트엔드 용으로 개발되었지만 서버쪽 렌더링이나 범용 앱 개발에도 쓸 수 있다.  [[Next.js]]
+프론트엔드 용으로 개발되었지만 서버쪽 렌더링이나 범용 앱 개발에도 쓸 수 있다.  옵시디언 템플릿 개발을 위해서 좀 더 자세히 알아본다.  [[Next.js]]
    
 5. Angular\
 강력한 JS 기반 웹개발 프레임워크.  MVC(Model View Controller) 구조를 기초로 만들어 졌기 때문에 동적 웹 앱개발을 쉽게 해 준다.  다른 프레임웍에 비해서는 좀 복잡한 편이다.
