@@ -47,4 +47,8 @@ Next.js에는 두가지 렌더링이 가능하다.
 만일 Navbar와 Footer가 매 페이지마다 필요하다면 이것을 매 페이지마다 넣을 필요가 없다.  Next는 페이지를 컴포넌트로 만들게 해준다.  Navbar와 Footer를 컴포넌트로 wrapping 하면 된다.
 
 
+
+### 좀더 찾아볼 주제 :
+JavaScript와 TypeScript
+
 #기술일반
