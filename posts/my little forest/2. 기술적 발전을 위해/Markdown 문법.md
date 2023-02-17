@@ -4,6 +4,12 @@ Netlify에서 테스트해보니 둘다 됐다.  백슬래시가 줄바꿈을 �
 수평선 그리기 :  3개 이상 연속된 하이픈, 아스터리스크, 언더스코어
 그런데, 이것을 넣고 netlify에 퍼블리시하면 표준이 다른지 문서 앞쪽이 잘려버림.  해서 쓰지 않기로.
 
+이미지 링크 :
+<img src="../../../assets/image.jpg"/>
+
+<img src="/assets/image.jpg"/>
+
+<img src="images/image.jpg"/>
 
 
 #테크니컬팁
